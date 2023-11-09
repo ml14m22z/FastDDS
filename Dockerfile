@@ -1,4 +1,4 @@
-# https://fast-rtps.docs.eprosima.com/en/v1.9.4/sources.html#dependencies
+# https://fast-dds.docs.eprosima.com/en/latest/installation/sources/sources_linux.html
 FROM ubuntu:20.04
 RUN apt-get update
 RUN apt-get install libasio-dev libtinyxml2-dev -y
