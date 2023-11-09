@@ -1,0 +1,9 @@
+[submodule "Fast-CDR"]
+	path = Fast-CDR
+	url = git@github.com:eProsima/Fast-CDR.git
+[submodule "foonathan_memory_vendor"]
+	path = foonathan_memory_vendor
+	url = git@github.com:eProsima/foonathan_memory_vendor.git
+[submodule "Fast-RTPS"]
+	path = Fast-RTPS
+	url = git@github.com:eProsima/Fast-DDS.git
